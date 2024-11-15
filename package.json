@@ -34,5 +34,8 @@
     "request": "^2.88.0",
     "sequelize": "^5.4.0",
     "shortid": "^2.2.14"
-  }
+  },
+  "engines": {
+  "node": "16.x"
+}
 }
